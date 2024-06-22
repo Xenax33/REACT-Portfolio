@@ -10,25 +10,75 @@ function About() {
         <div className="row">
           <div className="col">
             <div className="about-info">
-              <h3>My introduction</h3>
+              <h3>MERN Stack</h3>
               <p>
-                I breathe life into web applications using the MERN stack and
-                channel creativity into visually stunning designs. Let's bring
-                ideas to life!
+                Completed a comprehensive MERN stack internship at Pixel PK,
+                gaining hands-on experience in developing full-stack web
+                applications using MongoDB, Express.js, React, and Node.js.
               </p>
               <div className="about-btn">
                 <a
-                  href="https://drive.google.com/file/d/1VNFrtyfnpLN6VwbAdCcqTiCqd4UShVXX/view?usp=sharing"
+                  href="https://drive.google.com/file/d/13OPtHai3S5VpXe--j0bD8HvteXlVZujZ/view"
                   target="_blank"
                 >
-                  <button className="btn">
-                    Download CV <i className="uil uil-import"></i>
-                  </button>
+                  <button className="btn">View Certificate</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="col">
+            <div className="about-info">
+              <h3>Teaching Assistant</h3>
+              <p>
+                Served as a Teaching Assistant for the UET Computer Science
+                Department, supporting Programming Fundamentals and
+                Object-Oriented Programming (OOP) courses.
+              </p>
+              <div className="about-btn">
+                <a
+                  href="https://drive.google.com/file/d/1PXyTffdx1KeId6XNYsKdgt43FgCx0Qnh/view?usp=sharing"
+                  target="_blank"
+                >
+                  <button className="btn">View Certificate</button>
                 </a>
               </div>
             </div>
           </div>
           <div className="col">
+            <div className="about-info">
+              <h3>Graphic Designing</h3>
+              <p>
+              Currently working as a remote graphic designer for Wolkernite Boxing Company, creating event visuals and promotional materials, and served as the Director of Graphic Designing at the Software Square Society of UET's Computer Science Department.
+              </p>
+              {/* <div className="about-btn">
+                <a
+                  href="https://drive.google.com/file/d/1VNFrtyfnpLN6VwbAdCcqTiCqd4UShVXX/view?usp=sharing"
+                  target="_blank"
+                >
+                  <button className="btn">View Certificate</button>
+                </a>
+              </div> */}
+            </div>
+          </div>
+          <div className="col">
+            <div className="about-info">
+              <h3>Data Analytics</h3>
+              <p>
+                Currently enrolled in a Data Analytics bootcamp at Atomcamp,
+                enhancing my skills in data analysis and visualization.
+              </p>
+              {/* <div className="about-btn">
+                <a
+                  href="https://drive.google.com/file/d/1VNFrtyfnpLN6VwbAdCcqTiCqd4UShVXX/view?usp=sharing"
+                  target="_blank"
+                >
+                  <button className="btn">View Certificate</button>
+                </a>
+              </div> */}
+            </div>
+          </div>
+          {/* <div className="col">
             <div className="skills-box">
               <div className="skills-header">
                 <h3>Frontend</h3>
@@ -72,7 +122,7 @@ function About() {
                 <span>Figma</span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

@@ -136,12 +136,12 @@ function NavBar() {
       </div>
       <div className="nav-button">
         <a
-          href="https://drive.google.com/file/d/1VNFrtyfnpLN6VwbAdCcqTiCqd4UShVXX/view?usp=sharing"
+          href="https://drive.google.com/file/d/1k-d6hmfYvfpc4S2JNvyE67Tu2G15AMGg/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
           <button className="btn">
-            Download CV <i className="uil uil-file-alt"></i>
+            Download Resume <i className="uil uil-file-alt"></i>
           </button>
         </a>
       </div>

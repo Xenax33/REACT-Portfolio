@@ -12,26 +12,24 @@ function FeatureBox() {
           <p>
             I'm a{" "}
             <span className="typedText">
-              <ReactTypingEffect text={["Hello.", "World!"]}  speed={50} eraseDelay={1000} eraseSpeed={50}/>
+              <ReactTypingEffect text={["Developer.", "Designer." , "Data Science Trainee."]}  speed={50} eraseDelay={1000} eraseSpeed={50}/>
             </span>
           </p>
         </div>
         <div className="featured-text-info">
           <p>
-            Experienced full stack MERN developer and a Graphic Designer with a
-            passion for creating visually stunning and user-friendly websites
-            and eye catching designs.
+          Completed a comprehensive MERN stack internship at Pixel PK and currently working as a remote graphic designer for Wolkernite. Previously served as a Teaching Assistant for the UET Computer Science Department, and now enrolled in a Data Science bootcamp at Atomcamp to enhance skills in data analysis, visualization, and machine learning.
           </p>
         </div>
         <div className="featured-text-btn">
           {/* <!-- <button className="btn blue-btn">Hire Me</button> --> */}
           <a
-            href="https://drive.google.com/file/d/1VNFrtyfnpLN6VwbAdCcqTiCqd4UShVXX/view?usp=sharing"
+            href="https://drive.google.com/file/d/1k-d6hmfYvfpc4S2JNvyE67Tu2G15AMGg/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
             <button className="btn">
-              Download CV <i className="uil uil-file-alt"></i>
+              Download Resume <i className="uil uil-file-alt"></i>
             </button>
           </a>
         </div>
@@ -65,7 +63,7 @@ function FeatureBox() {
       </div>
       <div className="featured-image">
         <div className="image">
-          <img src="./profile.png" alt="avatar" />
+          <img src="https://res.cloudinary.com/djiqxvcin/image/upload/v1719068512/Portfolio-Photo_o7532i.jpg" alt="avatar" />
         </div>
       </div>
       <div className="scroll-icon-box">
