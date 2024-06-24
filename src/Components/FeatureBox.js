@@ -22,7 +22,6 @@ function FeatureBox() {
           </p>
         </div>
         <div className="featured-text-btn">
-          {/* <!-- <button className="btn blue-btn">Hire Me</button> --> */}
           <a
             href="https://drive.google.com/file/d/1k-d6hmfYvfpc4S2JNvyE67Tu2G15AMGg/view?usp=sharing"
             target="_blank"
@@ -34,7 +33,6 @@ function FeatureBox() {
           </a>
         </div>
         <div className="social_icons">
-          {/* <!-- <a><div className="icon"><i className="uil uil-instagram"></i></div></a> --> */}
           <a
             href="https://www.linkedin.com/in/khawaja-saad-akbar-3a4470265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbckZmnvCQSu90f62%2BLC%2FAQ%3D%3D"
             target="_blank"
@@ -65,12 +63,6 @@ function FeatureBox() {
         <div className="image">
           <img src="https://res.cloudinary.com/djiqxvcin/image/upload/v1719068512/Portfolio-Photo_o7532i.jpg" alt="avatar" />
         </div>
-      </div>
-      <div className="scroll-icon-box">
-        <a href="#about" className="scroll-btn">
-          <i className="uil uil-mouse-alt"></i>
-          <p>Scroll Down</p>
-        </a>
       </div>
     </section>
   );
